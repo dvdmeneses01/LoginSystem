@@ -5,12 +5,15 @@ General Description of the Code
 
 Graphical User Interface (GUI): Uses CustomTkinter to create an interface with a modern look and options for login and registration.
 Database: SQLite is used to store user information, such as username and password.
+
 Main Components:
+
    »Input fields for username and password.
    »Buttons for "Login" and "Register."
    »Functions for user authentication and registration.
 
 Code Components:
+
 1.Initial Configuration
    »Sets the window's default appearance and color.
    »Defines the icon and background image for the window.
